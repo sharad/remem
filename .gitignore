@@ -1,0 +1,17 @@
+bash_history
+\#*\#
+*.el[a-z0-9._]*
+TAGS
+# *
+*.[oa]
+*~
+*.pyc
+.#*
+Organize
+bbdb
+msmtprc
+offlineimaprc
+netrc
+.svn
+RCS
+*.undo
